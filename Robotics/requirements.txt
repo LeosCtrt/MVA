@@ -1,0 +1,31 @@
+# Core scientific stack
+numpy
+scipy
+matplotlib
+tqdm
+imageio
+rich
+
+# Jupyter / visualization
+jupyterlab
+ipywidgets
+meshcat
+tensorboard
+
+# Robotics stack
+pinocchio==2.6.18
+example-robot-data==4.2.0
+quadprog
+mujoco==2.3.7
+gym==0.26.2
+gymnasium
+stable-baselines3==2.3.2
+
+# Machine learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Optional helpers
+# (used by example_robot_data internally)
+cmeel
+
